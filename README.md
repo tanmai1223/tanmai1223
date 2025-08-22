@@ -118,15 +118,6 @@ A browser-based **Rock-Paper-Scissors** game with animations, score tracking, an
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tanmai1223&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmai1223&layout=compact&theme=tokyonight)
-
-## 🔥 Streaks & Activity
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmai1223&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmai1223&theme=react-dark)
-
----
 
 ## ⚡ Fun Facts
 - 🥇 **Consistency > Intensity** for learning
