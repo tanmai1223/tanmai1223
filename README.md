@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech (IT) — **Anurag Group of Institutions** (8.84 CGPA)
 - 🏆 Hackathon Runner-up | Selected in **Brillio** (LbJ + Hackathon)
-- 💡 Love building scalable web apps, exploring AI integrations, and solving real-world problems
+- 💡 Passionate about building scalable web apps, exploring AI integrations, and solving real-world problems
 - 🧑‍🤝‍🧑 CR, CodeChef Event Lead, Dept. Head for Tech Fest
 
 ---
@@ -30,7 +30,42 @@
 ---
 
 ## 🚀 Featured Projects
-## 📓 Memories App  
+
+### 🍽️ Restaurant Management System (MERN Full-Stack)
+
+A **restaurant ecosystem** built with the MERN stack — includes a restaurant dashboard, user ordering app, and backend API.  
+
+**✨ Key Features:**
+- 👤 User app for dine-in/takeaway ordering  
+- 📊 Analytics dashboard with charts (daily, weekly, monthly revenue)  
+- 🪑 Table management with live availability  
+- 👨‍🍳 Chef order tracking with live timers  
+- ⚙️ MongoDB-based backend API for real-time updates  
+- 📈 Deployed seamlessly on Netlify & Render  
+
+🔗 [Live User App](https://usersappt.netlify.app/) | [Live Restaurant Dashboard](https://restaurantpp.netlify.app/) | [Backend API](https://hotelbackend-7ibf.onrender.com)
+
+
+---
+
+### 🧭 API Tracer Management System  
+
+A **developer tool** that helps monitor and manage API requests, logs, and response statistics in real time.  
+
+**✨ Key Features:**
+- 📦 Create, update, and delete API endpoints  
+- 🧠 Tracks request status, response time, and performance  
+- 🔎 Search & filter by API name or method (GET, POST, etc.)  
+- 📈 Graphical insights with Recharts (success vs. failure rates)  
+- ⚙️ Built with **React + Node + MongoDB + Express**  
+- 🌐 Deployed for live testing and usage  
+
+🔗 [Live Demo]([#](https://apitracer.netlify.app/)) 
+
+
+---
+
+### 📓 Memories App  
 A full-stack **MERN** app to save & manage personal memories with images.  
 
 **✨ Key Features**: 
@@ -40,9 +75,11 @@ A full-stack **MERN** app to save & manage personal memories with images.
 - 👤 Profile & Account management  
 - 🛠️ Admin dashboard for user control  
 
-🔗 [Live Demo][Frontend](https://mymemoriesp.netlify.app/) | [Backend](https://mymemories-qrkc.onrender.com/)
+🔗 [Live Demo](https://mymemoriesp.netlify.app/) | [Backend](https://mymemories-qrkc.onrender.com/)
 
-## 📊 Multi-Feature Dashboard App (React)
+---
+
+### 📊 Multi-Feature Dashboard App (React)
 
 An interactive **React.js Dashboard App** with multiple tools and real-world flows.  
 
@@ -54,40 +91,9 @@ An interactive **React.js Dashboard App** with multiple tools and real-world flo
 - 🎬 Film Recommendations (API)  
 - 🌐 Responsive multi-page design  
 
-🔗 [Live Demo][Dashboard App](https://classy-elf-fb5ff3.netlify.app/)
+🔗 [Live Demo](https://classy-elf-fb5ff3.netlify.app/)
 
-
-### ⚡ Pokémon Directory (React App)
-
-A responsive and interactive **Pokémon Directory** built with **React.js**, integrating [PokeAPI](https://pokeapi.co/).  
-Includes login, favourites management, detailed Pokémon views, and smooth routing.  
-
-
-**✨ Key Features**: 
-- 🔐 Static Login (demo credentials)  
-- 📋 Pokémon Listing (API-based)  
-- ⭐ Mark / Unmark Favourites  
-- 📄 Detailed Pokémon Info Page  
-- 🌐 React Router Navigation  
-- 📱 Fully Responsive  
-
-🔗 [Live Demo][Pokemon App](https://dynamic-strudel-9cbe46.netlify.app/)  
-
-### 🎓 Student Database Management System (MERN)
-
-A full-stack **MERN** web app for managing student records with authentication and role-based access.  
-
-
-**✨ Key Features**: 
-- 🔐 Secure Login & Registration (JWT + bcryptjs)  
-- 👤 Role-based Access (User / Admin)  
-- 📊 Charts & Insights for student data  
-- 📋 CRUD operations for student records  
-- 🗑️ Admin can edit/delete students  
-- 📱 Fully Responsive
-
-🔗 [Live Demo][Frontend](https://studentdatabaseproject.netlify.app/) | [Backend](https://studentback-ocnq.onrender.com)  
-
+---
 
 ### 📝 NoteMaker  
 A **React.js app** to organize ideas with **group-based notes**.  
@@ -96,45 +102,31 @@ A **React.js app** to organize ideas with **group-based notes**.
 - 📂 Create & manage groups with auto-generated avatars  
 - 🚫 Prevents duplicate groups  
 - 🗒 Group-specific notes with quick save (Enter/Send button)  
-- 💾 Persistent data using LocalStorage (notes stay after reload)  
+- 💾 Persistent data using LocalStorage  
 - ⏱ Stores created & last updated time  
 - 🎨 Smart send button & responsive UI with CSS Modules  
 
-🔗[Live Demo][NoteMaker App](https://notemakerpro.netlify.app/) 
-
-### 🎮 Rock Paper Scissors  
-A browser-based **Rock-Paper-Scissors** game with animations, score tracking, and localStorage persistence.
-
-**✨ Key Features**:  
-- 🎲 Classic Rock, Paper, Scissors gameplay
-- 🤖 Computer AI with random moves
-- 🧾 Score tracking (saved in localStorage)
-- 🎉 Celebration screen with animations on victory
-- 📜 Rules modal (accessible anytime)
-- 🔄 "Next Round" button after each win
-
-🔗 [Live Demo][Game App](https://htanmaiproject.netlify.app/)
-
+🔗 [Live Demo](https://notemakerpro.netlify.app/)
 
 ---
 
-
 ## ⚡ Fun Facts
-- 🥇 **Consistency > Intensity** for learning
-- 🎵 Music + Coding = Flow
-- 🌱 Forever curious about new frameworks
-- 🏸 Badminton is my stress-buster
+- 🥇 **Consistency > Intensity** for learning  
+- 🎵 Music + Coding = Flow  
+- 🌱 Forever curious about new frameworks  
+- 🏸 Badminton is my stress-buster  
+
+---
 
 ## 📖 Currently Learning
-- 🔐 Advanced **JWT Auth & Security**
-- ☁️ **Cloud & DevOps** basics (Docker, AWS)
-- 🤝 Open-source collaboration
+- 🔐 Advanced **JWT Auth & Security**  
+- ☁️ **Cloud & DevOps** basics (Docker, AWS)  
+- 🤝 Open-source collaboration  
 
 ---
 
 ### 📫 Reach Me
-- 📧 **Gmail:** htanmai.23@gmail.com
-- 🔗 **LinkedIn:** www.linkedin.com/in/htanmai
-
+- 📧 **Gmail:** htanmai.23@gmail.com  
+- 🔗 **LinkedIn:** [www.linkedin.com/in/htanmai](https://www.linkedin.com/in/htanmai)  
 
 > ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
